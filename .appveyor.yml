@@ -1,4 +1,4 @@
-image: Ubuntu
+git push -u origin main image: Ubuntu
 
 stack: jdk 11
 
